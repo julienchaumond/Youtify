@@ -1,0 +1,8 @@
+{
+  "name":"youtify",
+  "main":"view/main.html",
+  "window":{
+    "min_width":400,
+    "min_height":400
+  }
+}
